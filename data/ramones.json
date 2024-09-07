@@ -1,0 +1,62 @@
+[
+  {
+    "titulo": "Ramones",
+    "año": 1976,
+    "canciones": [
+      "Blitzkrieg Bop",
+      "Beat on the Brat",
+      "Judy Is a Punk",
+      "I Wanna Be Your Boyfriend"
+    ],
+    "duracion_minutos": 29,
+    "sello": "Sire"
+  },
+  {
+    "titulo": "Leave Home",
+    "año": 1977,
+    "canciones": [
+      "Glad to See You Go",
+      "Gimme Gimme Shock Treatment",
+      "Carbona Not Glue",
+      "Commando"
+    ],
+    "duracion_minutos": 31,
+    "sello": "Sire"
+  },
+  {
+    "titulo": "Rocket to Russia",
+    "año": 1977,
+    "canciones": [
+      "Cretin Hop",
+      "Rockaway Beach",
+      "Here Today, Gone Tomorrow",
+      "Sheena Is a Punk Rocker"
+    ],
+    "duracion_minutos": 32,
+    "sello": "Sire"
+  },
+  {
+    "titulo": "Road to Ruin",
+    "año": 1978,
+    "canciones": [
+      "I Just Want to Have Something to Do",
+      "I Wanna Be Sedated",
+      "Go Mental",
+      "She's the One"
+    ],
+    "duracion_minutos": 31,
+    "sello": "Sire"
+  },
+  {
+    "titulo": "End of the Century",
+    "año": 1980,
+    "canciones": [
+      "Do You Remember Rock 'n' Roll Radio?",
+      "I'm Affected",
+      "Danny Says",
+      "Baby, I Love You"
+    ],
+    "duracion_minutos": 35,
+    "sello": "Sire"
+  }
+]
